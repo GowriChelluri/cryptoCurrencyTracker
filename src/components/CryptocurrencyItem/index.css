@@ -1,0 +1,37 @@
+li {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.name {
+  font-size: 15px;
+  margin-right: 10px;
+}
+.name-container {
+  display: flex;
+  align-items: center;
+}
+.values-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.usd-value {
+  font-size: 15px;
+  margin-right: 30px;
+  text-align: center;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.euro-value {
+  font-size: 15px;
+  margin-right: 10px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
